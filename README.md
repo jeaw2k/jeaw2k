@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jeaw2k aka Yan dex
 - 👀 I’m interested in bla bla bla
-- 🌱 I’m currently learning Ruby/JS/HTML/CSS/Node/React/Rails
 - 📫 How to reach me @jeaw2k (telegram)
 
 <!---
